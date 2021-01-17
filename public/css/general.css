@@ -1,0 +1,21 @@
+@font-face {
+  font-family: bungeeShade;
+  src:url("../fonts/Bungee_Shade/BungeeShade-Regular.ttf");
+}
+
+h4,h5,h6,p,a {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.logo {
+  font-family: bungeeShade;
+  font-size: 3rem;
+}
+
+.sub-logo {
+
+}
+
+.header-wrapper {
+  padding: 1rem 1.5rem;
+}
